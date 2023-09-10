@@ -1,0 +1,5 @@
+Password Scripts:
+1) Copy both pass.bat and pass.ps1 to the C: drive
+2) Before running the scripts, make sure to disable autologon
+3) Then run pass.bat as administrator
+(password is CyberPatriot!)
