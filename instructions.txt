@@ -1,5 +1,5 @@
 Password Scripts:
 1) Copy both pass.bat and pass.ps1 to the C: drive
-2) Before running the scripts, make sure to disable autologon
-3) Then run pass.bat as administrator
-(password is CyberPatriot!)
+2) Go to the "net user $Username.Name CyberPatriot!" part and change the password to what ever you need
+3) Before running the scripts, make sure to disable autologon
+4) Then run pass.bat as administrator
